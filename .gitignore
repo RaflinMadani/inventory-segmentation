@@ -1,0 +1,25 @@
+# Data mentah & olahan
+data/raw/
+data/interim/
+data/processed/
+data/external/
+
+# Model
+models/*.pkl
+models/*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Sistem
+.DS_Store
+Thumbs.db
