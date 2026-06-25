@@ -1,5 +1,4 @@
 ```
-
 C:\Semester 5\Z Code COBA\
 ├── COBA/
 │   ├── business_data_understanding.md
@@ -7,5 +6,4 @@ C:\Semester 5\Z Code COBA\
 │   └── project_structure_guide.md
 ├── .gitignore
 └── Readme.md
-
 ```
